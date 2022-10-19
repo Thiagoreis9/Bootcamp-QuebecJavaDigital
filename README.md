@@ -2,7 +2,7 @@
 
 Esse repositório foi criado para guardar as atividades desenvolvidas durante o Bootcamp Québec Java Digital pela Digital Innovation One
 
-<h1>Bootcamp Québec Java Digital by Dio</h1>
+# Bootcamp Québec Java Digital by Dio
 Nível: Básico
 93 hrs
 
