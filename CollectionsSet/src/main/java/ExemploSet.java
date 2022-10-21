@@ -5,15 +5,11 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.Objects;
-import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
 
 public class ExemploSet {
-
     public static void main(String[] args) {
-
-        Scanner input = new Scanner(System.in);
 
         System.out.println("Crie um conjunto e adicione as notas: ");
         Set<Double> notas = new HashSet<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6));
@@ -24,9 +20,11 @@ public class ExemploSet {
         //System.out.println("Substitua a nota 5.0 pela nota 6.0: "); // Também não é possível no Set
 
         System.out.println("Confira se a nota 5.0 está no conjunto: " + notas.contains(5d));
+
         //System.out.println("Exiba a terceira nota adicionada: "); // Não é possível pois não existe no Set o método Get para passar o index para retornar a nota.
 
         System.out.println("Exiba a menor nota: " + Collections.min(notas));
+
         System.out.println("Exiba a maior nota: " + Collections.max(notas));
 
         Iterator<Double> iterator = notas.iterator();
@@ -81,7 +79,7 @@ public class ExemploSet {
 
         System.out.println("\nOrdem Inserção");
         Set<Serie> minhasSeries1 = new LinkedHashSet<>(){{
-            add(new Serie("Peaky Blinders", "Ação", 50));
+            add(new Serie("Peaky Blinders", "Ação", 60));
             add(new Serie("Breaking Bad", "Ação", 60));
             add(new Serie("One piece", "Animação", 25));
         }};
@@ -96,7 +94,7 @@ public class ExemploSet {
 
         System.out.println("\nOrdem Nome/Gênero/TempoEpisodio");
         Set<Serie> minhasSeries3 = new TreeSet<>(new ComparatorNomeGeneroTempoEpisodio());
-        minhasSeries3.addAll(minhasSeries);
+        minhasSeries3.addAll(minhasSeries1);
         for (Serie serie : minhasSeries3) System.out.println(serie.getNome() + " - "
                 + serie.getGenero() + " - " + serie.getTempoEpisodio());
     }
@@ -177,7 +175,7 @@ class Serie implements Comparable<Serie>{
         int tempoEpisodio = Integer.compare(this.getTempoEpisodio(), serie.getTempoEpisodio());
         if (tempoEpisodio != 0) return tempoEpisodio;
 
-        return this.getGenero().compareTo(serie.getGenero());
+        return this.getNome().compareTo(serie.getNome());
     }
 }
 
@@ -193,7 +191,7 @@ class ComparatorNomeGeneroTempoEpisodio implements Comparator<Serie>{
 
         int tempoEpisodio = Integer.compare(s1.getTempoEpisodio(), s2.getTempoEpisodio());
 
-        return 0;
+        return tempoEpisodio;
     }
 //11:10 min
 }
