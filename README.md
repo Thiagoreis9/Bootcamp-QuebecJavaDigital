@@ -10,39 +10,39 @@ Decole na sua carreira internacional com o Québec Java Digital, um bootcamp em 
 <br>
 <h2>Cursos Abordados:</h2>
 
-• Introdução ao Git e ao Github - Básico; ✓
+> Introdução ao Git e ao Github - Básico; ✓
 
-• Dominando IDEs Java - Intermediário; ✓
+> Dominando IDEs Java - Intermediário; ✓
 
-• Variáveis, Tipos de dados e Operadores Matemáricos em Java - Intermediário; ✓
+> Variáveis, Tipos de dados e Operadores Matemáricos em Java - Intermediário; ✓
 
-• Entendendo Métodos Java - Básico; ✓
+> Entendendo Métodos Java - Básico; ✓
 
-• Estruturas Condicionais e Estruturas de Repetição em Java - Básico; ✓
+> Estruturas Condicionais e Estruturas de Repetição em Java - Básico; ✓
 
-• Trabalhando com Collections Java - Intermediário;
+> Trabalhando com Collections Java - Intermediário; ✓
 
-• Programação Orientada a Objetos - Intermediário;
+> Programação Orientada a Objetos - Intermediário; ✓
 
-• Debugging Java - Intermediário;
+> Debugging Java - Intermediário; ✓
 
-• Tratamento de Exceções em Java - Intermediário;
+> Tratamento de Exceções em Java - Intermediário; ✓
 
-• Testes Unitários com JUnit - Intermediário;
+> Testes Unitários com JUnit - Intermediário;
 
-• Conceitos e Melhores Práticas com Banco de Dados PostgreSQL - Básico;
+> Conceitos e Melhores Práticas com Banco de Dados PostgreSQL - Básico;
 
-• Gerenciamento de Dependências e Build em Java com Maven - Intermediário;
+> Gerenciamento de Dependências e Build em Java com Maven - Intermediário;
 
-• Introdução ao Spring Framework - Intermediário;
+> Introdução ao Spring Framework - Intermediário;
 
-• Simplificando Projetos Java com Spring Boot - Intermediário;
+> Simplificando Projetos Java com Spring Boot - Intermediário;
 
-• Imersão no Spring Framework com Spring Boot - Avançado;
+> Imersão no Spring Framework com Spring Boot - Avançado;
 
-• Criando uma API REST Documentada com Spring Web e Swagger - Intermediário;
+> Criando uma API REST Documentada com Spring Web e Swagger - Intermediário;
 
-• Adicionando Segurança a uma API REST com Spring Security - Avançado;
+> Adicionando Segurança a uma API REST com Spring Security - Avançado;
 <br>
 <br>
 <h2>Projetos e Desafios:</h2>
