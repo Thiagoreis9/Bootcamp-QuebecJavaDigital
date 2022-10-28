@@ -1,9 +1,8 @@
-# Bootcamp-QuebecJavaDigital
-
-Esse repositório foi criado para guardar as atividades desenvolvidas durante o Bootcamp Québec Java Digital pela Digital Innovation One
-
 # Bootcamp Québec Java Digital by Dio
-Nível: Básico  |  93 hrs.
+> Esse repositório foi criado para guardar as atividades desenvolvidas durante o Bootcamp Québec Java Digital pela Digital Innovation One
+> Nível: Básico  |  93 hrs. </br>
+> Progresso: 79%.
+
 
 Decole na sua carreira internacional com o Québec Java Digital, um bootcamp em parceria com o Governo do Québec. São 93 horas de desenvolvimento em back-end com Java e Spring Framework para você evoluir habilidades e otimizar seu código. O Governo do Québec, maior província do Canadá e que tem o francês como idioma principal, selou uma parceria com a DIO que vai melhor capacitar profissionais e talentos às oportunidades de trabalho no Québec. Sendo uma das maiores plataforma de educação e recrutamento da América Latina, a DIO vai facilitar o acesso de profissionais que desejam uma carreira internacional a empresas que buscam colaboradores capacitados.
 <br>
@@ -28,15 +27,15 @@ Decole na sua carreira internacional com o Québec Java Digital, um bootcamp em 
 
 > Tratamento de Exceções em Java - Intermediário; ✓
 
-> Testes Unitários com JUnit - Intermediário;
+> Testes Unitários com JUnit - Intermediário; ✓
 
-> Conceitos e Melhores Práticas com Banco de Dados PostgreSQL - Básico;
+> Conceitos e Melhores Práticas com Banco de Dados PostgreSQL - Básico; ✓
 
-> Gerenciamento de Dependências e Build em Java com Maven - Intermediário;
+> Gerenciamento de Dependências e Build em Java com Maven - Intermediário; ✓
 
-> Introdução ao Spring Framework - Intermediário;
+> Introdução ao Spring Framework - Intermediário; ✓
 
-> Simplificando Projetos Java com Spring Boot - Intermediário;
+> Simplificando Projetos Java com Spring Boot - Intermediário; 
 
 > Imersão no Spring Framework com Spring Boot - Avançado;
 
@@ -49,9 +48,9 @@ Decole na sua carreira internacional com o Québec Java Digital, um bootcamp em 
 
 • Desafio de Código Básico Java - Québec - Básico; ✓
 
-• Desafio de Código Intermediário Java - Québec - Intermediário; 
+• Desafio de Código Intermediário Java - Québec - Intermediário; ✓
 
-• Desafio de Projeto: Criando um Banco Digital com Java e Orientação a Objetos - Intermediário;
+• Desafio de Projeto: Criando um Banco Digital com Java e Orientação a Objetos - Intermediário; ✓
 
 • Desafio de Projeto: Explorando Padrões de Projetos na Prática com Java - Avançado;
 
