@@ -35,7 +35,7 @@ Decole na sua carreira internacional com o Québec Java Digital, um bootcamp em 
 
 > Introdução ao Spring Framework - Intermediário; ✓
 
-> Simplificando Projetos Java com Spring Boot - Intermediário; 
+> Simplificando Projetos Java com Spring Boot - Intermediário; ✓
 
 > Imersão no Spring Framework com Spring Boot - Avançado;
 
