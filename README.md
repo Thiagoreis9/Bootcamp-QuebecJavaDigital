@@ -1,7 +1,7 @@
 # Bootcamp Québec Java Digital by Dio
 > Esse repositório foi criado para guardar as atividades desenvolvidas durante o Bootcamp Québec Java Digital pela Digital Innovation One
 > Nível: Básico  |  93 hrs. </br>
-> Progresso: 87%.
+> Progresso: 93%.
 
 
 Decole na sua carreira internacional com o Québec Java Digital, um bootcamp em parceria com o Governo do Québec. São 93 horas de desenvolvimento em back-end com Java e Spring Framework para você evoluir habilidades e otimizar seu código. O Governo do Québec, maior província do Canadá e que tem o francês como idioma principal, selou uma parceria com a DIO que vai melhor capacitar profissionais e talentos às oportunidades de trabalho no Québec. Sendo uma das maiores plataforma de educação e recrutamento da América Latina, a DIO vai facilitar o acesso de profissionais que desejam uma carreira internacional a empresas que buscam colaboradores capacitados.
@@ -41,7 +41,7 @@ Decole na sua carreira internacional com o Québec Java Digital, um bootcamp em 
 
 > Criando uma API REST Documentada com Spring Web e Swagger - Intermediário; ✓
 
-> Adicionando Segurança a uma API REST com Spring Security - Avançado;
+> Adicionando Segurança a uma API REST com Spring Security - Avançado; ✓
 <br>
 <br>
 <h2>Projetos e Desafios:</h2>
